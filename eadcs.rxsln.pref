@@ -1,0 +1,13 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{5A87995D-4D14-4386-BFA4-D824BCFCCE59}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution eadcs[geoTech[eadcsRepository.rxrep[]Recording1.rxrec[]]]]&#xD;&#xA;Solution eadcs\geoTech\eadcs.rxtmg&#xD;&#xA;Solution eadcs" />
+  <StartupProject value="{5A87995D-4D14-4386-BFA4-D824BCFCCE59}" />
+</Properties>

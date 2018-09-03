@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="eadcs"
+      id="94bd69ad-5cdf-48c1-88db-4fc6aa6df7cd"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="eadcs"
+      id="94bd69ad-5cdf-48c1-88db-4fc6aa6df7cd"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

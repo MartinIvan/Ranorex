@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="тпаит"
+      id="5961cb9a-2f97-472a-9344-8b10581d00bf"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="тпаит"
+      id="5961cb9a-2f97-472a-9344-8b10581d00bf"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
